@@ -1,6 +1,8 @@
 FloatingAction
 ==============
 
+首页的悬浮快捷菜单，类似于Google+
+
 A basic implementation of Floating Action Button pattern as seen on Material Design
 
 ![Le demo](http://i.imgur.com/Z0nTwvj.gif)
